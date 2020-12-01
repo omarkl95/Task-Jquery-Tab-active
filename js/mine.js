@@ -84,3 +84,24 @@ $('#myTab a').click(function(e) {
 
 	});
  // Use strict end
+
+
+
+//  $(function()
+//  {    $("#send").click(function()
+// 	 {      e.preventDefault();
+// 		$.ajax(
+// 		 {    type: "POST",
+// 			 url: "send.php",
+// 			 data: $("#ajax-contact").serialize(),
+// 			 cache: false,
+// 			 success: function(response)
+// 			 {    if(response == "done")
+// 				 {    alert("Form submitted successfully!");    }
+// 				 else
+// 				 {    alert("Form submission failed!");    }
+// 			 },
+// 			 error:function(response){    alert(response);    }
+// 		 });
+// 	 });
+//  });

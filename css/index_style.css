@@ -8,7 +8,7 @@
     bottom: 23px;
     right: 28px;
     width: 280px;
-    display: block;
+    display: none;
 }
 /* Button used to open the chat form - fixed at the bottom of the page */
 .open-button {
